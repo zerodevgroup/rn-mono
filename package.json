@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "workspaces": [
     "app-one",
-    "app-two"
+    "app-two",
+    "shared"
   ]
 }
